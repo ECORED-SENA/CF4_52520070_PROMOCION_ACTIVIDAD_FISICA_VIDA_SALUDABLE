@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://github.com/ECORED-SENA/CF4_52520070_PROMOCION_ACTIVIDAD_FISICA_VIDA_SALUDABLE](https://github.com/ECORED-SENA/CF4_52520070_PROMOCION_ACTIVIDAD_FISICA_VIDA_SALUDABLE)
 
 #
 
