@@ -16,48 +16,48 @@
           figure
             img(src="@/assets/curso/tema2/1.png")
       
-      .col-xl-10.m-auto.mt-5
+      .m-auto.mt-5
         .row.justify-content-center
-          .col-md-10.col-lg.mb-3(data-aos="zoom-in" data-aos-duration="700")
+          .col-md-10.col-xl.col-lg-6.mb-3(data-aos="zoom-in" data-aos-duration="700")
             .h-100(style="border-radius:13px;box-shadow:0px 4px 10px rgba(0,0,0,.1)")
               .row.h-100
                 .col-auto.pe-0
-                  .p-3.h-100.d-flex.align-content-center.align-items-center(style="background-color:#97D8F6;border-radius: 13px 0px 0px 13px")
+                  .p-2.h-100.d-flex.align-content-center.align-items-center(style="background-color:#97D8F6;border-radius: 13px 0px 0px 13px")
                     figure
-                      img(src="@/assets/curso/tema2/2.svg")
+                      img(src="@/assets/curso/tema2/2.svg" style="max-width:60px;")
                 .col.ps-0
                   .p-3.h-100(style="background-color:#D5EFFB;border-radius: 0px 13px 13px 0px")
                     p.fw-bold Tiempo de actividad
                     p.mb-0 Se considera que una persona es físicamente activa cuando cumple con los niveles recomendados de actividad física diaria.
-          .col-md-10.col-lg.mb-3(data-aos="zoom-in" data-aos-duration="750")
+          .col-md-10.col-xl.col-lg-6.mb-3(data-aos="zoom-in" data-aos-duration="750")
             .h-100(style="border-radius:13px;box-shadow:0px 4px 10px rgba(0,0,0,.1)")
               .row.h-100
                 .col-auto.pe-0
-                  .p-3.h-100.d-flex.align-content-center.align-items-center(style="background-color:#97D8F6;border-radius: 13px 0px 0px 13px")
+                  .p-2.h-100.d-flex.align-content-center.align-items-center(style="background-color:#97D8F6;border-radius: 13px 0px 0px 13px")
                     figure
-                      img(src="@/assets/curso/tema2/3.svg")
+                      img(src="@/assets/curso/tema2/3.svg" style="max-width:60px;")
                 .col.ps-0
                   .p-3.h-100(style="background-color:#D5EFFB;border-radius: 0px 13px 13px 0px")
                     p.fw-bold Evitar sedentarismo
                     p.mb-0 Es crucial evitar permanecer sentado por largos periodos, ya que esto podría anular los beneficios de la actividad física, incluso si se sigue un régimen de ejercicio.
-          .col-md-10.col-lg.mb-3(data-aos="zoom-in" data-aos-duration="800")
+          .col-md-10.col-xl.col-lg-6.mb-3(data-aos="zoom-in" data-aos-duration="800")
             .h-100(style="border-radius:13px;box-shadow:0px 4px 10px rgba(0,0,0,.1)")
               .row.h-100
                 .col-auto.pe-0
-                  .p-3.h-100.d-flex.align-content-center.align-items-center(style="background-color:#97D8F6;border-radius: 13px 0px 0px 13px")
+                  .p-2.h-100.d-flex.align-content-center.align-items-center(style="background-color:#97D8F6;border-radius: 13px 0px 0px 13px")
                     figure
-                      img(src="@/assets/curso/tema2/4.svg")
+                      img(src="@/assets/curso/tema2/4.svg" style="max-width:60px;")
                 .col.ps-0
                   .p-3.h-100(style="background-color:#D5EFFB;border-radius: 0px 13px 13px 0px")
                     p.fw-bold Beneficios adicionales
                     p.mb-0 Acompañar la actividad física con una dieta hipocalórica puede ser muy beneficioso, especialmente en personas con sobrepeso u obesidad.
-          .col-md-10.col-lg.mb-3(data-aos="zoom-in" data-aos-duration="850")
+          .col-md-10.col-xl.col-lg-6.mb-3(data-aos="zoom-in" data-aos-duration="850")
             .h-100(style="border-radius:13px;box-shadow:0px 4px 10px rgba(0,0,0,.1)")
               .row.h-100
                 .col-auto.pe-0
-                  .p-3.h-100.d-flex.align-content-center.align-items-center(style="background-color:#97D8F6;border-radius: 13px 0px 0px 13px")
+                  .p-2.h-100.d-flex.align-content-center.align-items-center(style="background-color:#97D8F6;border-radius: 13px 0px 0px 13px")
                     figure
-                      img(src="@/assets/curso/tema2/5.svg")
+                      img(src="@/assets/curso/tema2/5.svg" style="max-width:60px;")
                 .col.ps-0
                   .p-3.h-100(style="background-color:#D5EFFB;border-radius: 0px 13px 13px 0px")
                     p.fw-bold Reducción de riesgos
