@@ -128,7 +128,7 @@
       .p-3.mt-lg-4(style="background-color:#FEE3E4;border-radius:14px;" data-aos="fade-up")
         p.mb-0 Sin embargo, existe una tendencia creciente en la sociedad de padres sedentarios con comportamientos poco saludables, los cuales son transmitidos a los niños.
     
-    p.mt-5(data-aos="fade-right") Situaciones en los que la familia puede influir en la práctica de actividad física: 
+    p.mt-5(data-aos="fade-right") Situaciones en las que la familia puede influir en la práctica de actividad física: 
 
     .cont_1_5.mt-5
       .row
@@ -278,7 +278,7 @@
               td Muy pesada, superior a 9 MET
               td Subir escaleras muy rápido o con bolsas pesadas.
               td Cortar leña, cargar elementos con peso elevado.
-              td Jugar squash, esquiar, rugby, entre otros deportes.
+              td Jugar #[em squash], esquiar, #[em rugby], entre otros deportes.
     
     .cont_1_9.pt-5
       p(data-aos="fade-up") Las actividades físicas deben cumplir con las siguientes características:

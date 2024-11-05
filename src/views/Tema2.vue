@@ -64,7 +64,7 @@
                     p.mb-0 Las personas obesas que logran mantenerse activas pueden reducir significativamente el riesgo de afecciones cardíacas y diabetes.
     
     p.mt-5(data-aos="fade-right") Este enfoque integral mejora el perfil de #[strong riesgo para la salud], ofreciendo una protección contra diversas #[strong enfermedades] y promoviendo una mejor calidad de vida.
-    p(data-aos="fade-left") Para la promoción de estilos de vida saludable es importante tener presente:
+    p(data-aos="fade-left") Para la promoción de estilos de vida saludables es importante tener presente:
 
     .row.mt-5
       .col-lg-3.d-none.d-lg-block(data-aos="fade-right")
@@ -170,7 +170,7 @@
                   span Mejora el perfil lipídico. 
                 li.d-flex
                   i.fas.fa-check-circle(style="color:#4A6B7A;")
-                  span Mejora la resistencia y fuerza muscular. 
+                  span Mejora la resistencia y la fuerza muscular. 
                 li.d-flex
                   i.fas.fa-check-circle(style="color:#4A6B7A;")
                   span Aumenta la densidad ósea. 
@@ -496,7 +496,7 @@
               figure
                 img(src="@/assets/curso/tema2/38.svg" style="width:90px;height:90px;display:inline;")
             .d-flex.align-content-center.flex-wrap.text-center.p-4
-              p.w-100 Comer muchas frutas y verduras
+              p.w-100 Comer muchas frutas y verduras.
         .col-lg.col-md-6.mb-4.mb-lg-0(data-aos="zoom-in" data-aos-duration="800")
           .h-100(style="background-color:#EAF7FD;border-radius:15px;")
             .d-flex.align-content-center.flex-wrap.text-center.p-4(style="background-color:#97D8F6;border-radius:15px 15px 0px 0px;")

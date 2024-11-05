@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Hábitos y vida saludable',
     descripcionCurso:
-      'Este componente formativo de formación aborda la promoción de la actividad física y estilos de vida saludable. Proporciona estrategias para fomentar hábitos saludables, con recomendaciones sobre nutrición, ejercicio, lactancia, y bienestar. Incluye guías para reducir el sedentarismo y prevenir enfermedades no transmisibles (ENT). Además, resalta la importancia del entorno familiar, políticas públicas, y la tecnología en la adopción de un estilo de vida activo.',
+      'Este componente formativo de formación aborda la promoción de la actividad física y estilos de vida saludables. Proporciona estrategias para fomentar hábitos saludables, con recomendaciones sobre nutrición, ejercicio, lactancia, y bienestar. Incluye guías para reducir el sedentarismo y prevenir enfermedades no transmisibles (ENT). Además, resalta la importancia del entorno familiar, políticas públicas, y la tecnología en la adopción de un estilo de vida activo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -295,11 +295,6 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
         {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador y vinculador de recursos educativos digitales',

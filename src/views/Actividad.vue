@@ -142,10 +142,10 @@ export default {
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '30%.', esCorrecta: true },
-            { id: 'b', texto: '50%.', esCorrecta: false },
-            { id: 'c', texto: '10%.', esCorrecta: false },
-            { id: 'd', texto: '70%.', esCorrecta: false },
+            { id: 'a', texto: '30 %.', esCorrecta: true },
+            { id: 'b', texto: '50 %.', esCorrecta: false },
+            { id: 'c', texto: '10 %.', esCorrecta: false },
+            { id: 'd', texto: '70 %.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
@@ -193,7 +193,7 @@ export default {
         {
           id: 9,
           texto:
-            '¿La ingesta de sal debe ser superior a 10 gramos diarios para adultos, según las recomendaciones del documento? ',
+            'La ingesta de sal debe ser superior a 10 gramos diarios para adultos, según las recomendaciones del documento',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -206,7 +206,7 @@ export default {
         {
           id: 10,
           texto:
-            '¿Es importante integrar a los adultos mayores en las actividades físicas que realiza la familia? ',
+            'Es importante integrar a los adultos mayores en las actividades físicas que realiza la familia ',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
