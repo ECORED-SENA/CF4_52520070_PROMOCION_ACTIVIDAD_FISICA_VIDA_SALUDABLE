@@ -46,14 +46,14 @@ export default {
         desarrolloContenidos: true,
         subMenu: [
           {
-            numero: '1.1',
+            numero: '2.1',
             titulo: 'Recomendaciones nutricionales ',
-            hash: 't_1_1',
+            hash: 't_2_1',
           },
           {
-            numero: '1.2',
+            numero: '2.2',
             titulo: 'Promoción de la alimentación saludable ',
-            hash: 't_1_2',
+            hash: 't_2_2',
           },
         ],
       },
