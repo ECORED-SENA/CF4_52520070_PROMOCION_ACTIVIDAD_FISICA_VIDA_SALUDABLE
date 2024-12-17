@@ -292,14 +292,7 @@
                     img(src="@/assets/curso/tema1/37.svg")
                 .col.ps-0(style="place-self:center;")
                   p.mb-0 Ser más que una carga habitual.
-          .col-md-6.mb-3(data-aos="zoom-in")
-            .h-100.p-2(style="background-color:#D5EFFB;border-radius:13px;")
-              .row
-                .col-auto(style="place-self:center;")
-                  figure
-                    img(src="@/assets/curso/tema1/38.svg")
-                .col.ps-0(style="place-self:center;")
-                  p.mb-0 Realizarse con regularidad, preferiblemente a diario.
+
           .col-md-6.mb-3(data-aos="zoom-in")
             .h-100.p-2(style="background-color:#D5EFFB;border-radius:13px;")
               .row
